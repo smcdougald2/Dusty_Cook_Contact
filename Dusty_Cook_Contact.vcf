@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Cook;Dusty;;;
+FN:Dusty Cook
+ORG:Convergint Technologies
+TITLE:Sales Representative
+TEL;TYPE=CELL,VOICE:+1-770-330-9406
+TEL;TYPE=WORK,VOICE:+1-770-840-7007
+EMAIL;TYPE=INTERNET,WORK:William.cook@convergint.com
+ADR;TYPE=WORK:;;1955 Evergreen Blvd\, Ste 50;Duluth;GA;30096;USA
+URL;TYPE=WORK:https://convergint.com
+REV:20250909T000000Z
+UID:2025-09-09-Dusty-Cook-convergint-7703309406
+END:VCARD
